@@ -3,7 +3,7 @@
     "line": 3,
     "elements": [
       {
-        "start_timestamp": "2023-12-26T20:31:16.430Z",
+        "start_timestamp": "2023-12-27T11:02:03.668Z",
         "line": 6,
         "name": "Cadastrar post com todos os campos preenchidos",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1954935300,
+              "duration": 2333991000,
               "status": "passed"
             },
             "line": 7,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 3547886900,
+              "duration": 3973073400,
               "status": "passed"
             },
             "line": 8,
@@ -37,7 +37,7 @@
           },
           {
             "result": {
-              "duration": 1478646800,
+              "duration": 1610256100,
               "status": "passed"
             },
             "line": 9,
@@ -64,7 +64,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-12-26T20:31:23.516Z",
+        "start_timestamp": "2023-12-27T11:02:12.049Z",
         "line": 11,
         "name": "Cadastrar post com o campo title sem valor",
         "description": "",
@@ -74,7 +74,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4655000,
+              "duration": 3009000,
               "status": "passed"
             },
             "line": 12,
@@ -86,7 +86,7 @@
           },
           {
             "result": {
-              "duration": 483415700,
+              "duration": 512251100,
               "status": "passed"
             },
             "line": 13,
@@ -98,7 +98,7 @@
           },
           {
             "result": {
-              "duration": 55741300,
+              "duration": 71399100,
               "status": "passed"
             },
             "line": 14,
@@ -122,7 +122,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-12-26T20:31:24.069Z",
+        "start_timestamp": "2023-12-27T11:02:12.677Z",
         "line": 16,
         "name": "Cadastrar post com o campo body sem valor",
         "description": "",
@@ -132,7 +132,7 @@
         "steps": [
           {
             "result": {
-              "duration": 8970400,
+              "duration": 16328400,
               "status": "passed"
             },
             "line": 17,
@@ -144,7 +144,7 @@
           },
           {
             "result": {
-              "duration": 562541700,
+              "duration": 496836700,
               "status": "passed"
             },
             "line": 18,
@@ -156,7 +156,7 @@
           },
           {
             "result": {
-              "duration": 64918400,
+              "duration": 48156400,
               "status": "passed"
             },
             "line": 19,
@@ -180,7 +180,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-12-26T20:31:24.712Z",
+        "start_timestamp": "2023-12-27T11:02:13.254Z",
         "line": 21,
         "name": "Cadastrar post com um valor negativo no campo userID",
         "description": "",
@@ -190,7 +190,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2318200,
+              "duration": 1944400,
               "status": "passed"
             },
             "line": 22,
@@ -202,7 +202,7 @@
           },
           {
             "result": {
-              "duration": 438022800,
+              "duration": 502931500,
               "status": "passed"
             },
             "line": 23,
@@ -214,7 +214,7 @@
           },
           {
             "result": {
-              "duration": 46997300,
+              "duration": 46095500,
               "status": "passed"
             },
             "line": 24,
@@ -238,7 +238,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-12-26T20:31:25.202Z",
+        "start_timestamp": "2023-12-27T11:02:13.818Z",
         "line": 26,
         "name": "Cadastrar post com um valor 0 no campo userID",
         "description": "",
@@ -248,7 +248,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1768000,
+              "duration": 1670200,
               "status": "passed"
             },
             "line": 27,
@@ -266,7 +266,7 @@
           },
           {
             "result": {
-              "duration": 544922700,
+              "duration": 441736100,
               "status": "passed"
             },
             "line": 28,
@@ -284,7 +284,7 @@
           },
           {
             "result": {
-              "duration": 44972700,
+              "duration": 52301400,
               "status": "passed"
             },
             "line": 29,
@@ -312,7 +312,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-12-26T20:31:25.800Z",
+        "start_timestamp": "2023-12-27T11:02:14.318Z",
         "line": 31,
         "name": "Cadastrar post com valor 0 no campo userID e campos title e body vazios",
         "description": "",
@@ -322,7 +322,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1651200,
+              "duration": 2076400,
               "status": "passed"
             },
             "line": 32,
@@ -340,7 +340,7 @@
           },
           {
             "result": {
-              "duration": 415230000,
+              "duration": 433390800,
               "status": "passed"
             },
             "line": 33,
@@ -352,7 +352,7 @@
           },
           {
             "result": {
-              "duration": 53172100,
+              "duration": 59569100,
               "status": "passed"
             },
             "line": 34,
@@ -380,7 +380,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-12-26T20:31:26.271Z",
+        "start_timestamp": "2023-12-27T11:02:14.816Z",
         "line": 36,
         "name": "Cadastrar post nao enviando o campo userID",
         "description": "",
@@ -390,7 +390,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2067600,
+              "duration": 1378800,
               "status": "passed"
             },
             "line": 37,
@@ -402,7 +402,7 @@
           },
           {
             "result": {
-              "duration": 458882000,
+              "duration": 518775400,
               "status": "passed"
             },
             "line": 38,
@@ -414,7 +414,7 @@
           },
           {
             "result": {
-              "duration": 22337500,
+              "duration": 34135000,
               "status": "passed"
             },
             "line": 39,
@@ -438,7 +438,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-12-26T20:31:26.758Z",
+        "start_timestamp": "2023-12-27T11:02:15.368Z",
         "line": 41,
         "name": "Cadastrar post nao enviando o campo title",
         "description": "",
@@ -448,7 +448,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1587200,
+              "duration": 1902200,
               "status": "passed"
             },
             "line": 42,
@@ -460,7 +460,7 @@
           },
           {
             "result": {
-              "duration": 419478000,
+              "duration": 510010800,
               "status": "passed"
             },
             "line": 43,
@@ -472,7 +472,7 @@
           },
           {
             "result": {
-              "duration": 19428300,
+              "duration": 32147100,
               "status": "passed"
             },
             "line": 44,
@@ -496,7 +496,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-12-26T20:31:27.201Z",
+        "start_timestamp": "2023-12-27T11:02:15.921Z",
         "line": 46,
         "name": "Cadastrar post nao enviando o campo body",
         "description": "",
@@ -506,7 +506,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1325100,
+              "duration": 2773900,
               "status": "passed"
             },
             "line": 47,
@@ -518,7 +518,7 @@
           },
           {
             "result": {
-              "duration": 420677600,
+              "duration": 491799700,
               "status": "passed"
             },
             "line": 48,
@@ -530,7 +530,7 @@
           },
           {
             "result": {
-              "duration": 24457400,
+              "duration": 35627000,
               "status": "passed"
             },
             "line": 49,
@@ -554,7 +554,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-12-26T20:31:27.651Z",
+        "start_timestamp": "2023-12-27T11:02:16.464Z",
         "line": 51,
         "name": "Cadastrar post nao enviando os campos userID, title, body",
         "description": "",
@@ -564,7 +564,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1180900,
+              "duration": 1376800,
               "status": "passed"
             },
             "line": 52,
@@ -576,7 +576,7 @@
           },
           {
             "result": {
-              "duration": 407721100,
+              "duration": 455432600,
               "status": "passed"
             },
             "line": 53,
@@ -588,7 +588,7 @@
           },
           {
             "result": {
-              "duration": 1250200,
+              "duration": 1535700,
               "status": "passed"
             },
             "line": 54,
@@ -626,7 +626,7 @@
     "line": 4,
     "elements": [
       {
-        "start_timestamp": "2023-12-26T20:31:28.066Z",
+        "start_timestamp": "2023-12-27T11:02:16.934Z",
         "line": 6,
         "name": "Buscar todos os posts",
         "description": "",
@@ -636,7 +636,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1162900,
+              "duration": 1283600,
               "status": "passed"
             },
             "line": 7,
@@ -648,7 +648,7 @@
           },
           {
             "result": {
-              "duration": 443648900,
+              "duration": 554903500,
               "status": "passed"
             },
             "line": 8,
@@ -666,7 +666,7 @@
           },
           {
             "result": {
-              "duration": 556000,
+              "duration": 883800,
               "status": "passed"
             },
             "line": 9,
@@ -684,7 +684,7 @@
           },
           {
             "result": {
-              "duration": 528375100,
+              "duration": 655644800,
               "status": "passed"
             },
             "line": 10,
@@ -702,7 +702,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-12-26T20:31:29.048Z",
+        "start_timestamp": "2023-12-27T11:02:18.154Z",
         "line": 12,
         "name": "Buscar um post por Id",
         "description": "",
@@ -712,7 +712,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1931000,
+              "duration": 1359900,
               "status": "passed"
             },
             "line": 13,
@@ -724,7 +724,7 @@
           },
           {
             "result": {
-              "duration": 404806800,
+              "duration": 559164600,
               "status": "passed"
             },
             "line": 14,
@@ -742,7 +742,7 @@
           },
           {
             "result": {
-              "duration": 530132500,
+              "duration": 493901200,
               "status": "passed"
             },
             "line": 15,
@@ -754,7 +754,7 @@
           },
           {
             "result": {
-              "duration": 813800,
+              "duration": 723200,
               "status": "passed"
             },
             "line": 16,
@@ -772,7 +772,7 @@
           },
           {
             "result": {
-              "duration": 726400,
+              "duration": 669200,
               "status": "passed"
             },
             "line": 17,
@@ -790,7 +790,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-12-26T20:31:29.990Z",
+        "start_timestamp": "2023-12-27T11:02:19.214Z",
         "line": 21,
         "name": "Buscar post com Id inválido",
         "description": "",
@@ -800,7 +800,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1095700,
+              "duration": 1294500,
               "status": "passed"
             },
             "line": 22,
@@ -812,7 +812,7 @@
           },
           {
             "result": {
-              "duration": 384430400,
+              "duration": 408171800,
               "status": "passed"
             },
             "line": 23,
@@ -830,7 +830,7 @@
           },
           {
             "result": {
-              "duration": 384319100,
+              "duration": 487295100,
               "status": "passed"
             },
             "line": 24,
@@ -842,7 +842,7 @@
           },
           {
             "result": {
-              "duration": 369400,
+              "duration": 544300,
               "status": "passed"
             },
             "line": 25,
